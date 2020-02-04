@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phookaelo.wnagzihxa1n.vip/sitemap.xml
